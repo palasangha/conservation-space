@@ -101,7 +101,7 @@
     "gulp-template": "3.0.0",
     "gulp-util": "3.0.4",
     "gulp-watch": "4.2.4",
-    "http-proxy": "1.11.2",
+    "http-proxy": "1.18.1",
     "istanbul": "0.4.2",
     "istanbul-combine": "0.3.0",
     "jspm": "0.15.7",
