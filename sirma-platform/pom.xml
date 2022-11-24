@@ -11,7 +11,7 @@
 
 	<properties>
 		<version.jacoco>0.7.9</version.jacoco>
-		<version.hibernate>4.3.9.Final</version.hibernate>
+		<version.hibernate>5.3.20.Final</version.hibernate>
 		<slf4j.version>1.7.25</slf4j.version>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
@@ -258,7 +258,7 @@
 			<dependency>
 				<groupId>org.hibernate</groupId>
 				<artifactId>hibernate-core</artifactId>
-				<version>4.3.10.Final</version>
+				<version>5.3.20.Final</version>
 			</dependency>
 			<dependency>
 				<groupId>org.jboss.resteasy</groupId>
